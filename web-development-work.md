@@ -12,4 +12,7 @@ This is the website that i worked on from scratch during my internship at NK Lea
 > [KIET Group of Institutions](https://kiet.edu)
 Our College Website, i.e. Official website of KIET Group of Institutions. I have worked on this project as frontend developer.
 
+> [Developer Student Clubs Website](https://dsckiet.github.io)
+Official Website of Developer Student Clubs - KIET
+
 *There are more projects that you can check on my github.com/goelaakash79, as they are not live yet.*
