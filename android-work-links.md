@@ -12,4 +12,7 @@ This was the android application that i developed for the startup based in Banga
 > [Weather App](https://github.com/goelaakash79/WeatherApp)
 Weather app collecting data from a weather api.
 
+> [NK Learnicare Android Application] (https://play.google.com/store/apps/details?id=com.nklearnicare.nklearnicare)
+Android Application for NK Learnicare and their events.
+
 *There are more porjects that you can check on my github.com/goelaakash79*
