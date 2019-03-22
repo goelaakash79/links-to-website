@@ -12,7 +12,10 @@ This was the android application that i developed for the startup based in Banga
 > [Weather App](https://github.com/goelaakash79/WeatherApp)
 Weather app collecting data from a weather api.
 
-> [NK Learnicare Android Application] (https://play.google.com/store/apps/details?id=com.nklearnicare.nklearnicare)
+> [NK Learnicare Android Application](https://play.google.com/store/apps/details?id=com.nklearnicare.nklearnicare)
 Android Application for NK Learnicare and their events.
+
+> [Developer Student Clubs Attendance Application](https://github.com/goelaakash79/dsc-event-attendance-app)
+This is the official attendance application of Developer Student Clubs KIET powered by Google Developers to manage the attendance of community members attending certain seminars, workshops, code-labs, etc.
 
 *There are more porjects that you can check on my github.com/goelaakash79*
