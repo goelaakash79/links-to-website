@@ -12,9 +12,6 @@ This is the website that i have worked on from scratch during my internship at N
 > [KIET Group of Institutions](https://kiet.edu)
 Our College Website, i.e. Official website of KIET Group of Institutions. I have worked on this project as UI developer.
 
-> [Developer Student Clubs Website](https://dsckiet.github.io)
-Official Website of Developer Student Clubs - KIET
-
 > [Foss-KIET](http://kiet-foss.github.io/)
 I have developed the Home Page UI of this website for an open source organization of our college, right now it is under progress, some contributors are working to shift the website on AngularJS.
 
@@ -23,5 +20,13 @@ This is the project solely developed by me to manage our Developer Student Clubs
 
 > [Simple Portfolio](http://goelaakash79.github.io/)
 My simple portfolio, having links to my social porfiles and contact information.
+
+> [Developer Student Clubs Website](https://dsckiet.tech)
+Official Website of Developer Student Clubs - KIET
+
+> [Budget Bucket UI](https://github.com/dsckiet/budget-planner-android)
+Budget Management Android App UI made for DSC students, to develop the core features of the app.
+[Budget Bucket Backend](https://github.com/dsckiet/budget-planner-backend)
+Budget Management backend developed on NodeJS, ExpressJS, MongoDB as a project under DSC.
 
 *There are more projects that you can check on my github.com/goelaakash79, as they are not live yet.*
