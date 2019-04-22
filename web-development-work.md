@@ -24,6 +24,9 @@ My simple portfolio, having links to my social porfiles and contact information.
 > [Developer Student Clubs Website](https://dsckiet.tech)
 Official Website of Developer Student Clubs - KIET
 
+> [Shopkart][private repo]
+Web and mobile based solution that integrates user's online and offline shopping experience with some more features. QR is the base of the product.
+
 > [Budget Bucket Backend](https://github.com/dsckiet/budget-planner-backend)
 Budget Management backend developed on NodeJS, ExpressJS, MongoDB as a project under DSC.
 
