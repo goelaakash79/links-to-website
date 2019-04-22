@@ -24,9 +24,7 @@ My simple portfolio, having links to my social porfiles and contact information.
 > [Developer Student Clubs Website](https://dsckiet.tech)
 Official Website of Developer Student Clubs - KIET
 
-> [Budget Bucket UI](https://github.com/dsckiet/budget-planner-android)
-Budget Management Android App UI made for DSC students, to develop the core features of the app.
-[Budget Bucket Backend](https://github.com/dsckiet/budget-planner-backend)
+> [Budget Bucket Backend](https://github.com/dsckiet/budget-planner-backend)
 Budget Management backend developed on NodeJS, ExpressJS, MongoDB as a project under DSC.
 
 *There are more projects that you can check on my github.com/goelaakash79, as they are not live yet.*
