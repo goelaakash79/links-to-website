@@ -18,4 +18,7 @@ Android Application for NK Learnicare and their events.
 > [Developer Student Clubs Attendance Application](https://github.com/goelaakash79/dsc-event-attendance-app)
 This is the official attendance application of Developer Student Clubs KIET powered by Google Developers to manage the attendance of community members attending certain seminars, workshops, code-labs, etc.
 
+> [Budget Bucket UI](https://github.com/dsckiet/budget-planner-android)
+Budget Management Android App UI made for DSC students, to develop the core features of the app.
+
 *There are more porjects that you can check on my github.com/goelaakash79*
